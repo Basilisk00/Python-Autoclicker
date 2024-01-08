@@ -40,7 +40,7 @@ def programRunning():
 root = Tk()
 root.title("Autoclicker")
 root.resizable(width=False, height=False)
-root.geometry("400x300+700+250")
+root.geometry("450x400+700+250")
 status = StringVar(value = "Off") # Variable to show if clicker is running
 
 #Label
